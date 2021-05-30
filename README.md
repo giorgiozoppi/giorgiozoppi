@@ -11,7 +11,7 @@
 - Learning C++20.
 
 ### Programming Languages
-- C++, Python, Go, Java.
+- C++, Python, Go, Java and in the past C#.
 ### Databases
 - Postgres, Apache Kassandra
 ### IDE
