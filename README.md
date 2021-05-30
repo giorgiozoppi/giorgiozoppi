@@ -15,7 +15,7 @@
 ### Programming Languages
 - C++, Python, Go, Java and in the past C#.
 ### Databases
-- Postgres, Apache Kassandra
+- Postgres, Apache Cassandra
 ### IDE
 - Visual Studio Code, Visual Studio 2017, Jetbrains IDEs.
 ### Others
