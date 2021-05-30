@@ -1,5 +1,5 @@
 ## Hi, I'm Giorgio aka Geo
-#### I'm a Software Developer, Half Marathon Runner and Mindfulness pawn!
+#### I'm a Software Developer, Half Marathon Runner !
 - I'm currently working at RStor.io
 - Trying to contribute to Apache IoTDB [https://iotdb.apache.org/]
 - Apache Committer
