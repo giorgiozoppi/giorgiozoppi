@@ -10,11 +10,11 @@
     - Budapest 10KM MANNA.
 - Learning C++20.
 
-## Programming Languages
+### Programming Languages
 - C++, Python, Go, Java.
-## Databases
+### Databases
 - Postgres, Apache Kassandra
-## IDE
+### IDE
 - Visual Studio Code, Visual Studio 2017, Jetbrains IDEs.
-## Others
+### Others
 - Git, Apache Kafka, Docker, Microservices and Distributed Systems.
