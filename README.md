@@ -2,7 +2,7 @@
 #### I'm a Software Developer, Half Marathon Runner !
 - I'm currently working at RStor.io
 - Trying to contribute to Apache IoTDB [https://iotdb.apache.org/]
-- Apache Committer
+- Apache Committer & Google Summer of Code Mentor 2020.
 - Volunteer at C++Now and cppcon.org.
 - 2020 Goals:
     - Expertise in Machine Learning
