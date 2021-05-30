@@ -1,4 +1,4 @@
-## Hi, I'm Giorgio aka Geo.
+## Hi, I'm Giorgio aka geo.
 #### I'm a Software Developer, Half Marathon Runner !
 - I'm currently working at RStor.io
 - Trying to contribute to Apache IoTDB [https://iotdb.apache.org/]
