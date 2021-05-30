@@ -9,6 +9,7 @@
     - IETLS Certification
     - Budapest 10KM MANNA.
 - Learning C++20.
+- Mindfulness Teacher Training.
 
 ### Programming Languages
 - C++, Python, Go, Java and in the past C#.
