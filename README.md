@@ -8,8 +8,9 @@
     - Expertise in Machine Learning
     - IETLS Certification
     - Budapest 10KM MANNA.
+    - Mindfulness Teacher Training.
 - Learning C++20.
-- Mindfulness Teacher Training.
+
 
 ### Programming Languages
 - C++, Python, Go, Java and in the past C#.
