@@ -4,7 +4,6 @@
 - Trying to contribute to Apache IoTDB [https://iotdb.apache.org/]
 - Apache Committer
 - Volunteer at C++Now and cppcon.org.
-- I'm always open to job and volunteering opportuinities.
 - 2020 Goals:
     - Expertise in Machine Learning
     - IETLS Certification
