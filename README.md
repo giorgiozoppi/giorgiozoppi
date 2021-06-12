@@ -13,7 +13,7 @@
 
 
 ### Programming Languages
-- C++, Python, Go, Java and in the past C#.
+- C++, Python, Go and Java.
 ### Databases
 - Postgres, Apache Cassandra
 ### IDE
