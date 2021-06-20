@@ -4,7 +4,7 @@
 - Trying to contribute to Apache IoTDB [https://iotdb.apache.org/]
 - Apache Committer & Google Summer of Code Mentor 2020.
 - Volunteer at C++Now and cppcon.org.
-- 2020 Goals:
+- 2021 Goals:
     - Expertise in Machine Learning
     - IETLS Certification
     - Budapest 10KM MANNA.
