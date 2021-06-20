@@ -1,7 +1,7 @@
 ## Hi, I'm Giorgio aka geo.
 #### I'm a Software Developer, Half Marathon Runner !
 
-- Trying to contribute to Apache IoTDB [https://iotdb.apache.org/]
+
 - Apache Committer & Google Summer of Code Mentor 2020.
 - Volunteer at C++Now and cppcon.org.
 - 2021 Goals:
