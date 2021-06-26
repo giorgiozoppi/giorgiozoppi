@@ -20,3 +20,10 @@
 - Visual Studio Code, Visual Studio 2017, Jetbrains IDEs.
 ### Others
 - Git, Apache Kafka, Docker, Microservices and Distributed Systems.
+
+#### Current reading backlogs - Jun '20
+- Head First Go - https://headfirstgo.com/ by Jay McGavren 
+- Professional C++ by Marc Gregoire
+
+### My Blog
+- https://jocorner.dev
