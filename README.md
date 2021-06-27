@@ -27,3 +27,6 @@
 
 ### My Blog
 - https://jocorner.dev
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgiozoppi&theme=algolia&exclude_repo=clang-blueprint)](https://github.com/anuraghazra/github-readme-stats)
+
