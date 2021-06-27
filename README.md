@@ -28,5 +28,5 @@
 ### My Blog
 - https://jocorner.dev
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgiozoppi&theme=algolia&exclude_repo=blog)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgiozoppi&theme=algolia&exclude_repo=blog,smartdatagrid)](https://github.com/anuraghazra/github-readme-stats)
 
