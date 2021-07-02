@@ -1,9 +1,6 @@
 ## Hi, I'm Giorgio aka geo.
 #### I'm a Software Developer, Half Marathon Runner !
 
-
-- Apache Committer & Google Summer of Code Mentor 2020.
-- Volunteer at C++Now and cppcon.org.
 - 2021 Goals:
     - Expertise in Machine Learning
     - IETLS Certification
