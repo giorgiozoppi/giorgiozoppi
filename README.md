@@ -4,7 +4,6 @@
 - 2021 Goals:
     - Expertise in Machine Learning
     - IETLS Certification
-    - Budapest 10KM MANNA.
     - Mindfulness Teacher Training.
 - Learning C++20.
 
