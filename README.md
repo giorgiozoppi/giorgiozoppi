@@ -9,7 +9,7 @@
 
 
 ### Programming Languages
-- C++, Python, Go and Java.
+- C++, Java, Python and Go.
 ### Databases
 - Postgres, Apache Cassandra
 ### IDE
