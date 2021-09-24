@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 All of my projects are available at [htto://github.com](htto://github.com)
+- 👨‍💻 All of my projects are available at [htto://github.com/giorgiozoppi](htto://github.com)
 
 - 📝 I regularly write articles on [https://jocorner.dev](https://jocorner.dev)
 
