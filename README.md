@@ -5,13 +5,14 @@
 
 - 🔭 I’m currently working on [IOTDB Time Series File Native.](https://github.com/giorgiozoppi/tsfile)
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust** and pursuing [Udacity C++ Nanodegree](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/C%2B%2B+Nanodegree+Program+Syllabus.pdf)
 
 - 👨‍💻 All of my projects are available at [htto://github.com/giorgiozoppi](htto://github.com)
 
 - 📝 I regularly write articles on [https://jocorner.dev](https://jocorner.dev)
 
 - 📫 How to reach me **giorgio.zoppi@iotdbe.com**
+- I speak : English, Spanish, Italian.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
