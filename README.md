@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [IOTDB Time Series File Native.](https://github.com/giorgiozoppi/tsfile)
 
-- 🌱 I’m currently learning **C++20, Rust**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [htto://github.com](htto://github.com)
 
