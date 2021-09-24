@@ -25,6 +25,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giorgiozoppi&show_icons=true&locale=en&layout=compact" alt="giorgiozoppi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giorgiozoppi&show_icons=true&locale=en" alt="giorgiozoppi" /></p>
 
 
