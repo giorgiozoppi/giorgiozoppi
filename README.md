@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Rust** and pursuing [Udacity C++ Nanodegree](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/C%2B%2B+Nanodegree+Program+Syllabus.pdf)
 
-- 👨‍💻 All of my projects are available at [htto://github.com/giorgiozoppi](http://github.com)
+- 👨‍💻 All of my projects are available at [http://github.com/giorgiozoppi](http://github.com)
 
 - 📝 I regularly write articles on [https://jocorner.dev](https://jocorner.dev)
 
