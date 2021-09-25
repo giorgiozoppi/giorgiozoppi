@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [IOTDB Time Series File Native.](https://github.com/giorgiozoppi/tsfile)
 
-- 🌱 I’m currently learning **Rust** and pursuing [Udacity C++ Nanodegree](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/C%2B%2B+Nanodegree+Program+Syllabus.pdf)
+- 🌱 I’m currently learning **Rust** 
 
 - 👨‍💻 All of my projects are available at [http://github.com/giorgiozoppi](http://github.com)
 
