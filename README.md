@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Rust** 
 
+- 🌱 Programming Languages: **C++**, Java and Go. 
+
 - 👨‍💻 All of my projects are available at [http://github.com/giorgiozoppi](http://github.com)
 
 - 📝 I regularly write articles on [https://jocorner.dev](https://jocorner.dev)
