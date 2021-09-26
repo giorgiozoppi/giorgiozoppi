@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Rust** and **Elixir**.
 
-- 🌱 Programming Languages: **C++**, **Java** and **Go **. 
+- 🌱 Programming Languages: **C++**, **Java** and **Go**. 
 
 - In the past I used also C# and Python.
 
