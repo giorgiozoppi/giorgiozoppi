@@ -9,7 +9,7 @@
 
 - 🌱 Programming Languages: **C++**, **Java** and **Go**. 
 
-- In the past I used also C# and Python.
+- 🌱 In the past I used also C# and Python.
 
 - 👨‍💻 All of my projects are available at [http://github.com/giorgiozoppi](http://github.com)
 
