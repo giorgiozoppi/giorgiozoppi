@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giorgiozoppi&label=Profile%20views&color=0e75b6&style=flat" alt="giorgiozoppi" /> </p>
 
-- 🔭 I’m currently working on [IOTDB Time Series File Native.](https://github.com/giorgiozoppi/tsfile)
 
 - 🌱 I’m currently learning **Rust** and C++20.
 
