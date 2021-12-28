@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Giorgio aka Geo</h1>
-<h3 align="center">Software developer</h3>
+<h1 align="center">Hi 👋, I'm Giorgio</h1>
+<h3 align="center">Software Engineer</h3>
 
 <p align=left> <img src="https://github-readme-stats.vercel.app/api?username=giorgiozoppi" alt="statistics" /> </p>
 
