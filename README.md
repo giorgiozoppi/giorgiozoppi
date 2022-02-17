@@ -8,7 +8,7 @@
 
 - 🌱 Programming Languages: **C++17**, **Python** and **Go**. 
 
-- 👨‍💻 All of my projects are available at [http://github.com/giorgiozoppi](http://github.com)
+- 👨‍💻 All of my projects are available at [https://github.com/giorgiozoppi](https://github.com/giorgiozoppi)
 
 - 📝 I regularly write articles on [https://jocorner.dev](https://jocorner.dev)
 
