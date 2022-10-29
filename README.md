@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://jocorner.dev](https://jocorner.dev)
 
-- 📫 How to reach me **giorgio.zoppi@iotdbe.com**
+- 📫 How to reach me **giorgio@apache.org**
 - I speak : English, Spanish, Italian.
 
 <h3 align="left">Connect with me:</h3>
