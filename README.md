@@ -6,7 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giorgiozoppi&label=Profile%20views&color=0e75b6&style=flat" alt="giorgiozoppi" /> </p>
 
 
-- 🌱 Programming Languages: **C++17**, **Python** and **Go**. 
+- 🌱 Programming Languages: **Python**,  **Go** and **C++17**, learning Rust.
+
+-  Contributor to Apache Milagro [https://milagro.apache.org/users.html]
 
 - 👨‍💻 All of my projects are available at [https://github.com/giorgiozoppi](https://github.com/giorgiozoppi)
 
