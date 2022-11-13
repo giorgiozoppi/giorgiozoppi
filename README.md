@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/giorgiozoppi](https://github.com/giorgiozoppi)
 
-- 📝 I regularly write articles on [https://jocorner.dev](https://jocorner.dev)
+- 📝 I regularly write articles on [https://medium.com/@giorgio.zoppi](https://medium.com/@giorgio.zoppi)
 
 - 📫 How to reach me **giorgio@apache.org**
 - I speak : English, Spanish, Italian.
