@@ -8,7 +8,6 @@
 
 - 🌱 Programming Languages: **Python**,  **Go** and **C++17**, learning Rust.
 
--  Contributor to Apache Milagro [https://milagro.apache.org/users.html]
 
 - 👨‍💻 All of my projects are available at [https://github.com/giorgiozoppi](https://github.com/giorgiozoppi)
 
