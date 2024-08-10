@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giorgiozoppi&label=Profile%20views&color=0e75b6&style=flat" alt="giorgiozoppi" /> </p>
 
 
-- 🌱 Programming Languages: **Python**,  **Java* and **C++20**
+- 🌱 Programming Languages: **Python**,  **Java** and **C++20**
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/giorgiozoppi](https://github.com/giorgiozoppi)
