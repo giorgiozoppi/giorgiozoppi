@@ -6,14 +6,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giorgiozoppi&label=Profile%20views&color=0e75b6&style=flat" alt="giorgiozoppi" /> </p>
 
 
-- 🌱 Programming Languages: **Python**,  **Java** and **C++20**
+- 🌱 Programming Languages: **Python**,  **Rust** and **C++20**
 
+=  Current work (Senior Advanced AI Engineer @Honeywell International)
+-  Previous work (Senior Software Engineer @General Motors)
 
-- 👨‍💻 All of my projects are available at [https://github.com/giorgiozoppi](https://github.com/giorgiozoppi)
+- 👨‍💻 All of my personal projects are available at [https://github.com/giorgiozoppi](https://github.com/giorgiozoppi)
 
 - 📝 I regularly write articles on [https://medium.com/@giorgio.zoppi](https://medium.com/@giorgio.zoppi)
 
-- 📫 How to reach me **giorgio@apache.org**
+- 📫 How to reach me **giorgio@yenflow.com**
 - I speak : English, Spanish, Italian.
 
 <h3 align="left">Connect with me:</h3>
